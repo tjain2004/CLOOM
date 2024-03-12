@@ -1,6 +1,6 @@
-# Hackathon Project: Healthcare Website
+# codeloom Project: Healthcare Website
 
-This repository contains the project for DevJam Season 1 Hackathon, held from May 14th, 2023, to May 15th, 2023. The project is a healthcare website that provides therapy services to users, helping them overcome various problems and improve their health. The project is released under the MIT License.
+This repository contains the project for ctrl_freaks,codeloom , held from March 11th, to March 12th, 2024. The project is a healthcare website that provides therapy services to users, helping them overcome various problems and improve their health.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,15 +15,10 @@ The Healthcare Website project was developed for the DevJam Season 1 Hackathon. 
 
 ## Team Members
 
-- [Manish Kushwaha](https://github.com/illunise "Manish Kushwaha")
-- [Ganesh Mourya](https://github.com/Alkaison "Ganesh Mourya")
-- [Sanjeev Samal](https://github.com/Sanjiv39 "Sanjeev Samal")
-
-## Screenshots
-![Alt text](/Images/Screenshot%202023-05-15%20at%201.47.01%20PM-min.png?raw=true "Optional Title")
-![Alt text](/Images/Screenshot%202023-05-15%20at%201.49.56%20PM-min.png?raw=true "Optional Title")
-![Alt text](/Images/Screenshot%202023-05-15%20at%201.50.02%20PM-min.png?raw=true "Optional Title")
-![Alt text](/Images/Screenshot%202023-05-15%20at%201.50.17%20PM-min.png?raw=true "Optional Title")
+Gungun Gupta
+Radhika Sharma
+Jinisha Bose
+Tanya Jain
 
 ## Installation
 To set up the project locally, follow these steps:
