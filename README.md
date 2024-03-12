@@ -11,14 +11,14 @@ This repository contains the project for ctrl_freaks,codeloom , held from March 
 - [License](#license)
 
 ## Introduction
-The Healthcare Website project was developed for the DevJam Season 1 Hackathon. The goal of this project is to provide users with a platform where they can access therapy services to overcome personal problems and improve their overall health. The website is designed to be user-friendly and offers a range of features to enhance the user's experience.
+The Healthcare Website project was developed for the "codeloom"-hackthon. The goal of this project is to provide users with a platform where they can access therapy services to overcome personal problems and improve their overall health. The website is designed to be user-friendly and offers a range of features to enhance the user's experience.
 
 ## Team Members
 
-Gungun Gupta
-Radhika Sharma
-Jinisha Bose
-Tanya Jain
+Gungun Gupta,
+Radhika Sharma,
+Jinisha Bose,
+Tanya Jain.
 
 ## Installation
 To set up the project locally, follow these steps:
